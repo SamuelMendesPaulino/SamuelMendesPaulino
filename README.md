@@ -10,7 +10,7 @@
 
 ### Certifications
 
-<img src="https://cdn.shopify.com/s/files/1/0299/9215/7283/products/DevOps-Essentials-Professional-Certificate-DEPC.png?v=1657290538" alt="Image" height="60" width="60"><img src="https://lh3.googleusercontent.com/pw/AL9nZEXB-Znn00nFV2bTLtwB5LEr_m_q-FItgvE6FECdWFRwlBbQXDVvJdbOhlLZMHmnc-ICSwpnr-tSEdlCH3KeQDXUGMWetoRridMM21hK5VDruGuO7LjkYsghHsplJRQxSkGkVt_h4dSQLlfIX5_YpXHs=w250-h252-no?authuser=0" alt="Image" height="60" width="60"><img src="https://lh3.googleusercontent.com/pw/AL9nZEVh6MdfrYJl-z770Wj0yERaIOehqgzq7kVdLExjjNnU-xvClq1S8JmtLzvKIAd30Fzrvzxe5IHZ_9GOEZ1yNJkWVYZdZw3-XCkUOcATLQoObaoRdz6GO-jXu-pn5u3KOqa1mYqkOGLBDV8MFNcVJbSp=w281-h300-no?authuser=0" alt="Image" height="63" width="60">
+<img src="https://cdn.shopify.com/s/files/1/0299/9215/7283/products/DevOps-Essentials-Professional-Certificate-DEPC.png?v=1657290538" alt="Image" height="65" width="65"><img src="https://lh3.googleusercontent.com/pw/AL9nZEXB-Znn00nFV2bTLtwB5LEr_m_q-FItgvE6FECdWFRwlBbQXDVvJdbOhlLZMHmnc-ICSwpnr-tSEdlCH3KeQDXUGMWetoRridMM21hK5VDruGuO7LjkYsghHsplJRQxSkGkVt_h4dSQLlfIX5_YpXHs=w250-h252-no?authuser=0" alt="Image" height="65" width="65"><img src="https://lh3.googleusercontent.com/pw/AL9nZEVh6MdfrYJl-z770Wj0yERaIOehqgzq7kVdLExjjNnU-xvClq1S8JmtLzvKIAd30Fzrvzxe5IHZ_9GOEZ1yNJkWVYZdZw3-XCkUOcATLQoObaoRdz6GO-jXu-pn5u3KOqa1mYqkOGLBDV8MFNcVJbSp=w281-h300-no?authuser=0" alt="Image" height="68" width="66">
 
 ### Superbadges At Trailhead
 
