@@ -8,7 +8,11 @@
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]() [![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]() [![Mariadb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)]()
 
-### Superbadges
+### Certifications
+
+<img src="https://cdn.shopify.com/s/files/1/0299/9215/7283/products/DevOps-Essentials-Professional-Certificate-DEPC.png?v=1657290538" alt="Image" height="45" width="45">
+
+### Superbadges At Trailhead
 
 <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_apex/2d3426c48dc056fd5c083ecb5cb66a56_badge.png" alt="Image" height="45" width="45"> <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/superbadges/superbadge_process_automation/575dc4f610559227f8617cc4d08c5268_badge.png" alt="Image" height="45" width="45">
 
